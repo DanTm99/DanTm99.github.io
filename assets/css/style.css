@@ -1814,7 +1814,7 @@ ul.social-links li a:hover span {
     position: relative;
 }
 .contact-area:before {
-    background: rgba(0, 0, 0, 0.8);
+    background: #222;
     content: "";
     height: 100%;
     left: 0;
