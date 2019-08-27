@@ -679,7 +679,7 @@ fieldset {
     height: 100vh;
 }
 .home-static:before {
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(0, 0, 0, 0.8);
     content: "";
     height: 100%;
     left: 0;
