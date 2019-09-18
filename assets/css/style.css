@@ -679,11 +679,11 @@ fieldset {
     height: 100vh;
 }
 .home-static:before {
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.9);
     content: "";
     height: 100%;
     left: 0;
-    opacity: 0.8;
+    opacity: 0.9;
     position: absolute;
     top: 0;
     width: 100%;
@@ -1508,12 +1508,11 @@ ul.social-links li a:hover span {
     position: relative;
 }
 .our-skills:before {
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.9);
     content: "";
     height: 100%;
     left: 0;
-    opacity: 0.8;
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+    opacity: 0.9;
     position: absolute;
     top: 0;
     width: 100%;
