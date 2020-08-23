@@ -359,22 +359,33 @@ fieldset {
         margin-left: 0px;
     }
 }
+
 .navbar-default.menu-animation li a {
-    color: #333!important
+    color: #333 !important
 }
+
 .navbar-default.menu-animation li a:hover {
     color: #337ab7 !important
 }
+
 .navbar-default .navbar-toggle {
     background: #fff none repeat scroll 0 0
 }
+
+.navbar-default .navbar-toggle {
+    float: left;
+    margin-left: 15px
+}
+
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
     background-color: #fff
 }
+
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #337ab7;
 }
+
 /* dropdown menu style */
 
 .navbar-right .dropdown-menu {
