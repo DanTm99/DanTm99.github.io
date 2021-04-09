@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://danyaalkhan.co.uk/</loc>
+        <lastmod>2021-04-08</lastmod>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://danyaalkhan.co.uk/assets/doc/Automating_OpenAI%E2%80%99s_GPT-2_Text_Generating_Language_Model.pdf
+        </loc>
+        <lastmod>2021-04-08</lastmod>
+        <changefreq>never</changefreq>
+        <priority>0.80</priority>
+    </url>
+</urlset>
